@@ -1,0 +1,11 @@
+using System;
+internal class Program
+{
+    static void Main(string[] args)
+    {
+        int N = 10;
+        int conv;
+        int[] mass_one = new int[N];
+        Random rnd = new Random();
+    }
+}
